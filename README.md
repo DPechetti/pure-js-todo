@@ -3,11 +3,11 @@ Project to practice pure js without any framework.
 
 ![](https://img.shields.io/badge/Autor-Donovan%20Pechetti-green.svg)
 
-![](https://img.shields.io/badge/contributor-There%20are%20no%20contributors%20yet-red.svg)
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/DPechetti)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/donovan-pechetti-a53946124/)](https://www.linkedin.com/in/donovan-pechetti-a53946124/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dooovi)](https://twitter.com/dooovi)
+
+![](https://img.shields.io/badge/contributor-There%20are%20no%20contributors%20yet-red.svg)
 
 
 ## Visualization
